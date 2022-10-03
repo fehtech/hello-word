@@ -1,2 +1,3 @@
-# hello-word
-Exercício de Hello World para dar os primeiros passos com GitHub.
+# Nova Branch
+
+Esta branch foi criada como uma etapa de aprendizado da documentação oficial do Github.
